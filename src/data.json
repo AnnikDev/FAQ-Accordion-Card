@@ -1,0 +1,26 @@
+[
+  {
+    "question": "How many team members can I invite?",
+    "answer": "There is no limit to how many team members the Admin can invite."
+  },
+
+  {
+    "question": "What is the maximum file upload size?",
+    "answer": "No more than 2GB. All files in your account must fit your allotted storage space."
+  },
+
+  {
+    "question": "How do I reset my password?",
+    "answer": "Change your password. Open your Google Account. You might need to sign in."
+  },
+
+  {
+    "question": "Can I cancel my subscription?",
+    "answer": "ou can cancel a subscription at any time, with no early termination fees."
+  },
+
+  {
+    "question": "Do you provide additional support?",
+    "answer": "Additional support for learning (ASL) is the extra or different help provided to learners who have additional support needs"
+  }
+]
